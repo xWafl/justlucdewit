@@ -1,16 +1,22 @@
-### Hi there 👋
+### I am Luc de Wit (or my pseudonym: Luke_ )
 
-<!--
-**justlucdewit/justlucdewit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- I am a 2nd year software dev student in the Netherlands
+- I like coding in low level compiled languages
+- I like a challenge
+- I love learning how simple and easy some things really are
+- I love impressing people with my projects
+- I love contributing to projects
 
-Here are some ideas to get you started:
+### Personal life goals:
+- [ ] Get a programming job
+- [ ] Teach as many people how fun programming is
+- [ ] Create my own programming language that is actually decent
+- [ ] Finally upgrade to linux
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Projects I'm proud of:
+- [My first working language (alpha code)](https://github.com/justlucdewit/alphaV4)
+- [The VM I have written for the code community](https://github.com/CCodeCommunity/CCVM)
+- [My pi training app](https://justlucdewit.github.io/pitrainer/)
+- More coming soon...
+
+<img src="https://github-readme-stats.vercel.app/api?username=justlucdewit&&show_icons=true"/>
