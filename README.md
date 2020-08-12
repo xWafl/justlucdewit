@@ -13,7 +13,7 @@
 - [ ] Create my own programming language that is actually decent
 - [ ] Finally upgrade to linux
 
-### coding experience (i only started recording my coding times scince 11-8-2020):
+### coding experience (i only started recording my coding times since 11-8-2020):
 - C#: 16h 
 
 ### Projects I'm proud of:
