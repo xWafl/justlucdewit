@@ -13,6 +13,9 @@
 - [ ] Create my own programming language that is actually decent
 - [ ] Finally upgrade to linux
 
+### coding experience (i only started recording my coding times scince 11-8-2020):
+- C#: 16h 
+
 ### Projects I'm proud of:
 - [My first working language (alpha code)](https://github.com/justlucdewit/alphaV4)
 - [The VM I have written for the code community](https://github.com/CCodeCommunity/CCVM)
