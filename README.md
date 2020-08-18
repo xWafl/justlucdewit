@@ -14,7 +14,7 @@
 - [ ] Finally upgrade to linux
 
 ### coding experience (i only started recording my coding times since 11-8-2020):
-- C#: 17.5h 
+- C#: 25h 
 
 ### Projects I'm proud of:
 - [My first working language (alpha code)](https://github.com/justlucdewit/alphaV4)
