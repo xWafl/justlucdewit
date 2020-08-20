@@ -16,6 +16,7 @@
 ### coding experience (i only started recording my coding times since 11-8-2020):
 - C#: 25h
 - Js: 3h
+- Haskell: 2h
 
 ### Projects I'm proud of:
 - [My first working language (alpha code)](https://github.com/justlucdewit/alphaV4)
