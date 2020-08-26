@@ -14,9 +14,9 @@
 - [ ] Finally upgrade to linux
 
 ### coding experience (i only started recording my coding times since 11-8-2020):
-- C#: 32h
-- Js: 8.5h
-- VueJS: 11h
+- C#: 34h
+- Js: 14h
+- VueJS: 16.5h
 - Haskell: 2h
 
 ### Projects I'm proud of:
