@@ -14,10 +14,10 @@
 - [ ] Finally upgrade to linux
 
 ### coding experience (i only started recording my coding times since 11-8-2020):
-- Js: 50h
-- VueJS: 50h
+- Js: 54h
+- VueJS: 54h
 - C#: 49h
-- C: 5h
+- C: 9h
 - Haskell: 2h
 
 ### Projects I'm proud of:
