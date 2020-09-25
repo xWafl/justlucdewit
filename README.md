@@ -17,7 +17,7 @@
 - Js: 83h
 - VueJS: 83h
 - C#: 55h
-- C: 32h
+- C: 36h
 - Haskell: 2h
 
 ### Projects I'm proud of:
